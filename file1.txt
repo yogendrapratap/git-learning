@@ -1,5 +1,0 @@
-This file to check fetch and pull
-
-update file
-Test file
-Test comment
